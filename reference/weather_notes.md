@@ -18,6 +18,9 @@ Get data for individual coordinates
 
 ### service
 
+run ur own weather api
+https://github.com/open-meteo/open-data/tree/main/tutorial_weather_api
+
 Installing the Open-Meteo Docker image 
 `docker pull ghcr.io/open-meteo/open-meteo`
 Download archived ERA5 data for temperature from AWS
